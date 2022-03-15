@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - check code
+ * print_alphabet - A function that prints letters
  *
  * Return: Always 0
  */
