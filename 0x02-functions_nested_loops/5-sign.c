@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include "main.h"
+
 /**
  * print_sign - A funtion to print a sign of a number
- *
+ * @n: A variable that stands for number
  * Return: Always 0 (Success)
  */
 int print_sign(int n)
